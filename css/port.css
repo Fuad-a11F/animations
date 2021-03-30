@@ -5,7 +5,7 @@
 }
 
 .wwwww {
-    background: url("laye121rs.png") center / cover no-repeat fixed;
+    background: url("laye121rs.webp") center / cover no-repeat fixed;
     min-height: 100vh;
 }
 
@@ -29,7 +29,7 @@
 
 
 .header__image {
-    background: url("Screenshot_1.png") 0 0 no-repeat;
+    background: url("Screenshot_1.webp") 0 0 no-repeat;
     background-size: cover;
     min-height: 100vh;
 }
@@ -363,7 +363,7 @@
 }
 
 .section_2 {
-    background: url("layers (1).png") 0 0 no-repeat;
+    background: url("layers (1).webp") 0 0 no-repeat;
     background-size: cover;
     overflow: hidden;
 }
@@ -671,7 +671,7 @@
 }
 
 .section_6 {
-    background: url('laye121rs.png') 0 0 no-repeat;
+    background: url('laye121rs.webp') 0 0 no-repeat;
     background-size: 100% 670px;
     padding-bottom: 40px;
     margin-top: 120px;
@@ -767,7 +767,7 @@
 
 
 .footer {
-    background: url('layers.png') 0 0 no-repeat;
+    background: url('layers.webp') 0 0 no-repeat;
     background-size: cover;
     padding: 123px 0;
 }
